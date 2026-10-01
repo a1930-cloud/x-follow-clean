@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Follow Review workflow</title>
+  <desc id="desc">Collect, compare, review, confirm, and process accounts locally.</desc>
+  <defs><style>text{font-family:Inter,Arial,sans-serif;fill:#172033} .box{fill:#f4f7fb;stroke:#5b7cfa;stroke-width:2} .arrow{stroke:#5b7cfa;stroke-width:3;fill:none;marker-end:url(#m)} .small{font-size:16px}.label{font-size:19px;font-weight:700}</style><marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#5b7cfa"/></marker></defs>
+  <rect width="1200" height="260" rx="24" fill="#fff"/>
+  <g transform="translate(35 70)"><rect class="box" width="170" height="100" rx="16"/><text class="label" x="85" y="40" text-anchor="middle">收集页面</text><text class="small" x="85" y="68" text-anchor="middle">Following / Followers</text></g>
+  <path class="arrow" d="M205 120h48"/>
+  <g transform="translate(255 70)"><rect class="box" width="170" height="100" rx="16"/><text class="label" x="85" y="40" text-anchor="middle">本地比对</text><text class="small" x="85" y="68" text-anchor="middle">证据与差集</text></g>
+  <path class="arrow" d="M425 120h48"/>
+  <g transform="translate(475 70)"><rect class="box" width="170" height="100" rx="16"/><text class="label" x="85" y="40" text-anchor="middle">人工审核</text><text class="small" x="85" y="68" text-anchor="middle">保留 / 核对 / 选择</text></g>
+  <path class="arrow" d="M645 120h48"/>
+  <g transform="translate(695 70)"><rect class="box" width="170" height="100" rx="16"/><text class="label" x="85" y="40" text-anchor="middle">用户确认</text><text class="small" x="85" y="68" text-anchor="middle">最多 100 人一批</text></g>
+  <path class="arrow" d="M865 120h48"/>
+  <g transform="translate(915 70)"><rect class="box" width="250" height="100" rx="16"/><text class="label" x="125" y="40" text-anchor="middle">逐个检查并记录</text><text class="small" x="125" y="68" text-anchor="middle">成功 / 跳过 / 待核对</text></g>
+</svg>
