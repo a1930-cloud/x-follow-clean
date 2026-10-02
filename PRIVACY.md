@@ -25,7 +25,8 @@ Users can export their records, start a new local cycle, clear extension data th
 
 ## Contact
 
-Replace this line with the maintainer's public privacy contact before submitting to an extension store: `privacy@example.com`.
+For privacy questions, use the repository's public contact or security-report channel:
+<https://github.com/a1930-cloud/x-follow-clean/security>.
 
 ## Changes
 
